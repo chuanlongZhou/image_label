@@ -1,9 +1,8 @@
 # image_label
 
-manually labeling images for DL model with mouse 
+manually labeling images for DL model with mouse
 
 Label example see: ***label_eg.ipynb***
-
 
 How to use:
 
@@ -27,7 +26,7 @@ How to use:
 
 ![1709561754320](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561754320.png)![1709561972026](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561972026.png)![1709561774515](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561774515.png)
 
-Masks: 
+Masks:
 
 orange: dense-plume
 
