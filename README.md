@@ -25,7 +25,7 @@ How to use:
 **The response of key input might have some delays.**
 
 
-![1709561754320](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561754320.png)![1709561972026](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561972026.png)![1709561774515](https://file+.vscode-resource.vscode-cdn.net/e%3A/github/image_label/image/README/1709561774515.png)
+![1709561754320](image/README/1709561754320.png)![1709561972026](image/README/1709561972026.png)![1709561774515](image/README/1709561774515.png)
 
 Masks:
 
