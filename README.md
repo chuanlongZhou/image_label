@@ -9,7 +9,9 @@ How to use:
 
 1. folder structure:
 
-   input: data\power_plant_name\images
+   data\power_plant_name\images **(this image is only used for labeling with only visable bands from S2)**
+
+   data\power_plant_name\raw **(this file is used for training with all bands from S2)**
 
    ![1709561996266](image/README/1709561996266.png)
 2. run command ***python label.py --path PATH_TO_IMAGE --label LABEL_NAME*** to assign a single label type to each image in the designated folder.
